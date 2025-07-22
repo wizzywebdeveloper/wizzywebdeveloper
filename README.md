@@ -2,8 +2,8 @@
 
 <img width="3780" height="1890" alt="Blue Brown Corporate Online Business Webinar Banner" src="https://github.com/user-attachments/assets/5dca2793-446f-47c5-a751-25d15e26b068" />
 
-🧑‍💻 About Me
-Hi there 👋, I'm Wisdom Godwin Edet, a passionate and versatile Full Stack Developer, Tech Educator, and Content Creator. I love building modern websites and applications, creating helpful tech content, and contributing to the developer community.
+## About Me
+I'm Wisdom Godwin Edet, a passionate and versatile Full Stack Developer, Tech Educator, and Content Creator. I love building modern websites and applications, creating helpful tech content, and contributing to the developer community.
 
 💡 Currently working on: Web development projects, open source contributions, and tech education.
 

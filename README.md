@@ -1,18 +1,31 @@
-## Hi there 👋
+## WELCOME TO WIZZYWEBDEVELOPER
 
+<img width="3780" height="1890" alt="Blue Brown Corporate Online Business Webinar Banner" src="https://github.com/user-attachments/assets/5dca2793-446f-47c5-a751-25d15e26b068" />
 
-**wizzywebdeveloper/wizzywebdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 About Me
+Hi there 👋, I'm Wisdom Godwin Edet, a passionate and versatile Full Stack Developer, Tech Educator, and Content Creator. I love building modern websites and applications, creating helpful tech content, and contributing to the developer community.
 
-Here are some ideas to get you started:
+💡 Currently working on: Web development projects, open source contributions, and tech education.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎓 Currently learning: Advanced TypeScript, Backend Development with Node.js & Django, and DevOps practices.
+
+🤝 Open to collaborate on: Frontend and full-stack projects, open-source contributions, and community tech events.
+
+💬 Ask me about: Web development, freelance tips, developer growth, or building a brand as a developer.
+
+📫 How to reach me: via email, LinkedIn, or any of my socials below!
+
+🎥 Fun fact: I also create educational tech content on YouTube and love explaining complex tech topics simply.
+
+✨ My Goals This Year
+🚀 Launch more personal projects and open-source tools.
+
+🌍 Mentor junior developers and grow the Wizzy Dev Community.
+
+🎥 Grow my YouTube channel with practical coding tutorials.
+
+📚 Master backend frameworks like Django and Node.js with TypeScript.
+
 
 
 ## 🌐 Socials:
@@ -38,3 +51,8 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=wizzywebdeveloper&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
